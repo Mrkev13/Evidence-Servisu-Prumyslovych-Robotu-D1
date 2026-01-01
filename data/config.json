@@ -1,0 +1,12 @@
+{
+    "database": {
+        "server": "localhost\\SQLEXPRESS", 
+        "name": "RobotServiceDB",
+        "driver": "{ODBC Driver 17 for SQL Server}",
+        "trusted_connection": "yes"
+    },
+    "app": {
+        "title": "Evidence Servisu Robotu v1.0",
+        "window_size": "800x600"
+    }
+}
