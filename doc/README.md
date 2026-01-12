@@ -1,6 +1,6 @@
 # Evidence Servisu Průmyslových Robotů
 
-**Autor:** [Doplň své jméno]
+**Autor:** Stanislav Petr
 
 ---
 
